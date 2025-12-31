@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//NUT
+
 bool isEven(int n) {
     return (n % 2 == 0);
 }

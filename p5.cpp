@@ -1,5 +1,7 @@
 #include <iostream>
 
+//FizzBuzz
+
 int main() {
     int n;
 

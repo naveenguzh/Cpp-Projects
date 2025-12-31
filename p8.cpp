@@ -1,6 +1,8 @@
 #include <iostream>
 #include <ctime>
 
+//Rock, Paper, Scissors
+
 char getUserChoice();
 char getComputerChoice();
 void showChoice(char choice);

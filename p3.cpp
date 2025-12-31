@@ -1,5 +1,7 @@
 #include <iostream>
 
+//Grade + Average Calculator
+
 int main() {
 
     int sub;

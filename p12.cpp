@@ -3,9 +3,11 @@ using namespace std;
 
 
 int main(){
-    int n = 5;
+    int n ;
     int sum = 0;
-    
+
+    cout << "Enter the no. ";
+    cin >> n;
 
     for (int i = 1; i <= n; i++)
     {

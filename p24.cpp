@@ -2,7 +2,11 @@
 using namespace std;
 
 int main(){
-    int n = 4;
+    int n;
+
+    cout << "Enter an no. ";
+    cin >> n;
+
     int num = 1;
 
     for (int i = 1; i <= n; i++)

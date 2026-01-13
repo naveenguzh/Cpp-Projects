@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h2>C++ Projects by naveenguzh</h2>
-=======
-<h1>C++ Projects by naveenguzh</h1>
->>>>>>> 8d89a1c (New Readme)
-=======
-<h2>C++ Projects by naveenguzh</h2>
->>>>>>> fdb2e98 (New Readme)
+
 <p align="center"> <img src="https://img.shields.io/github/repo-size/naveenguzh/Cpp-Projects" alt="Repo Size"/> <img src="https://img.shields.io/github/languages/top/naveenguzh/Cpp-Projects" alt="Languages"/> <img src="https://img.shields.io/github/license/naveenguzh/Cpp-Projects" alt="License"/> </p>
 
 This repository contains 31 beginner-to-intermediate C++ console projects coded by me. Each project focuses on a specific concept, ranging from basic calculations and games to pattern printing and array manipulations.
